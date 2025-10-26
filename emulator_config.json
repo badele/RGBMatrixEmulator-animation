@@ -1,0 +1,12 @@
+{
+    "pixel_outline": 0,
+    "pixel_size": 4,
+    "pixel_style": "circle",
+    "pixel_glow": 60,
+    "display_adapter": "pygame",
+    "icon_path": null,
+    "emulator_title": null,
+    "suppress_font_warnings": false,
+    "suppress_adapter_load_errors": true,
+    "log_level": "info"
+}

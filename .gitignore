@@ -1,0 +1,6 @@
+.direnv
+
+.cache
+.nix-python-packages
+
+themes/*/*-*
